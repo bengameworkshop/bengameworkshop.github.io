@@ -4,8 +4,9 @@
     "namespace": "android_app",
     "package_name": "com.bengameworkshop.doudodo",
     "sha256_cert_fingerprints": [
-      "E9:81:E6:73:4C:19:86:C2:8F:55:F7:FB:FF:DB:E3:08:AE:F6:85:7A:CE:C7:D4:3A:FF:37:88:70:44:7C:B6:10",
-      "8E:C7:85:A1:9E:4B:DB:6E:7D:B2:ED:C9:D2:2D:99:18:B2:7E:DB:85:6E:64:9D:46:E1:54:AA:ED:FB:53:2B:B0"
+      "89:35:F4:C8:22:11:C7:89:79:04:0C:16:20:88:B6:7D:AC:19:A9:F5:E4:B1:DA:5D:B2:42:AD:EB:79:1B:6F:B8",
+      "8E:C7:85:A1:9E:4B:DB:6E:7D:B2:ED:C9:D2:2D:99:18:B2:7E:DB:85:6E:64:9D:46:E1:54:AA:ED:FB:53:2B:B0",
+      "E9:81:E6:73:4C:19:86:C2:8F:55:F7:FB:FF:DB:E3:08:AE:F6:85:7A:CE:C7:D4:3A:FF:37:88:70:44:7C:B6:10"
     ]
   }
 }]
